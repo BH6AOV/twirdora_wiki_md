@@ -39,7 +39,7 @@ If you are not satisfied with Apple’s response, you may refer your complaint t
 **Pandox Project**
 
 
-#<center>Twirdora 隐私政策</center>
+# <center>Twirdora 隐私政策</center>
 <center>**更新⽇期：2022 年 3 ⽉ 3 ⽇**</center>
 
 **Twirdora** 是 **Pandox Project** 开发的游戏。Twirdora 的隐私政策阐释了 Twirdora 和 Pandox Project不收集你的个⼈数据的内容。请花些时间熟悉我们在隐私保护⽅⾯的做法，如有任何疑问，请联系我们。
