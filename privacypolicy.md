@@ -2,7 +2,7 @@
 [English / 英文](#Twirdora_Privacy_Policy)
 [Chinese / 中文](#Twirdora_隐私政策)
 
-<center># Twirdora Privacy Policy</center>
+# <center>Twirdora Privacy Policy</center>
 <center>**Updated 3 March, 2022**</center>
 
 **Twirdora** is a game developed by **Pandox Project**. Twirdora’s Privacy Policy describes that Twirdora and Pandox Project DO NOT collect your personal data. Please take a moment to familiarise yourself with our privacy practices, and contact us if you have any questions.
